@@ -1,0 +1,140 @@
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. View Tasks by Deadline
+6. Search Tasks
+7. Exit
+1
+
+Enter task description: Complete project report
+Enter priority (high/medium/low): high
+Enter category: Work
+Enter deadline (YYYY-MM-DD): 2024-08-15
+Enter status (pending/in progress/completed): pending
+
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. View Tasks by Deadline
+6. Search Tasks
+7. Exit
+1
+
+Enter task description: Grocery shopping
+Enter priority (high/medium/low): medium
+Enter category: Personal
+Enter deadline (YYYY-MM-DD): 2024-08-05
+Enter status (pending/in progress/completed): pending
+
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. View Tasks by Deadline
+6. Search Tasks
+7. Exit
+2
+
+Tasks:
+1. Complete project report - high - Work - 2024-08-15 - pending
+2. Grocery shopping - medium - Personal - 2024-08-05 - pending
+
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. View Tasks by Deadline
+6. Search Tasks
+7. Exit
+3
+
+Tasks:
+1. Complete project report - high - Work - 2024-08-15 - pending
+2. Grocery shopping - medium - Personal - 2024-08-05 - pending
+
+Enter the number of the task to update: 2
+Enter new description (or press Enter to keep current): 
+Enter new priority (or press Enter to keep current): 
+Enter new category (or press Enter to keep current): 
+Enter new deadline (YYYY-MM-DD) (or press Enter to keep current): 
+Enter new status (or press Enter to keep current): completed
+
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. View Tasks by Deadline
+6. Search Tasks
+7. Exit
+2
+
+Tasks:
+1. Complete project report - high - Work - 2024-08-15 - pending
+2. Grocery shopping - medium - Personal - 2024-08-05 - completed
+
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. View Tasks by Deadline
+6. Search Tasks
+7. Exit
+4
+
+Tasks:
+1. Complete project report - high - Work - 2024-08-15 - pending
+2. Grocery shopping - medium - Personal - 2024-08-05 - completed
+
+Enter the number of the task to delete: 2
+Task deleted.
+
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. View Tasks by Deadline
+6. Search Tasks
+7. Exit
+2
+
+Tasks:
+1. Complete project report - high - Work - 2024-08-15 - pending
+
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. View Tasks by Deadline
+6. Search Tasks
+7. Exit
+5
+
+Enter the deadline to filter by (YYYY-MM-DD): 2024-08-10
+Tasks with deadline on or before 2024-08-10:
+no tasks found
+
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. View Tasks by Deadline
+6. Search Tasks
+7. Exit
+6
+
+Enter search term: report
+Tasks containing "report":
+Complete project report - high - Work - 2024-08-15 - pending
+
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Delete Task
+5. View Tasks by Deadline
+6. Search Tasks
+7. Exit
+7
+
+Tasks saved. Exiting...
